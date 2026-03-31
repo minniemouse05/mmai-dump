@@ -5,7 +5,7 @@ This repo contains my homework assignments and random thoughts throughout the cl
 
 ## Bio
 
-<img src="./imgs/profile.png" style="width:200px;">
+<img src="./imgs/profile-pic.png" style="width:200px;">
 
 Hi, I'm Minnie Liang! I'm a junior at MIT studying Computer Science and Artificial Intelligence. I love thinking about challenging problems (especially one with lots of data!) using algorithms and machine learning. I'm passionate about creating practical, impactful solutions that bridge theory and real-world applications.
 
@@ -17,7 +17,8 @@ In my free time, you can catch me:
 ## Final Project
 
 TBD! For now, enjoy this 1 hour compilation of Gordan Ramsey hating on food
-[![Gordan Ramsey Hating](https://www.youtube.com/watch?v=2INpDCWOy0Q)](https://www.youtube.com/watch?v=2INpDCWOy0Q)
+
+[![Gordan Ramsey Hating](https://img.youtube.com/vi/2INpDCWOy0Q/0.jpg)](https://www.youtube.com/watch?v=2INpDCWOy0Q)
 
 ## Homework
 
