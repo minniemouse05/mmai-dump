@@ -6,7 +6,7 @@ Using the CMU-MOSEI dataset, I converted audio (COVAREP) and facial (OpenFace) f
 
 [See python notebook here](homework/homework-3/homework-3.ipynb)
 
-### Converting Multimodal Features into Heatmap Images
+## Converting Multimodal Features into Heatmap Images
 
 Each CMU-MOSEI segment was rendered as a two-panel heatmap: audio features (COVAREP, 74-dim) on the left and facial features (OpenFace 2.0, 713-dim) on the right, both padded/truncated to 50 time steps. These images were saved as JPEGs with a corresponding sentiment label (positive / negative / neutral) for VLM training.
 

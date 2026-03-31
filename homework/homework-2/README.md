@@ -8,7 +8,7 @@ I also trained unimodal audio and image classifiers on AV-MNIST as baselines. Fr
 
 [See python notebook here](homework/homework-2/homework-2.ipynb)
 
-### Comparing Four Fusion Strategies
+## Comparing Four Fusion Strategies
 
 Using audio (COVAREP, 74-dim) and visual (OpenFace, 713-dim) features from CMU-MOSEI, I implemented early, late, tensor, and low-rank tensor (LMF) fusion from scratch in PyTorch using einsum notation. Early fusion edged out the others, though all four were within ~2% of each other.
 
@@ -19,7 +19,7 @@ LMF Fusion — 63.76%
 
 <img src="imgs/fusion-res.png" width="60%">
 
-### CLIP Zero-Shot & Custom Alignment
+## CLIP Zero-Shot & Custom Alignment
 
 I first used OpenAI's pretrained CLIP model to run zero-shot emotion classification on a test image, then trained a custom InfoNCE contrastive model to align CMU-MOSEI audio and visual features into a shared embedding space.
 
