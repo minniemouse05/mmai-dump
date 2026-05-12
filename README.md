@@ -21,11 +21,11 @@ For my final project, my team and I took the Multimodal Transformer (MuLT) and g
 
 We built a noise estimator + gating network to handle the routing, and ran a bunch of experiments on CMU-MOSEI. The results gave us a ton of insight into what makes variance-based noise detection tricky across different modalities!
 
-[View my project code here](./final-project/)
-
 Our slide deck:
 
 [![Slides](imgs/thumbnail.png)](https://docs.google.com/presentation/d/1RIiWg-sNTqqaZAbsKy8Lk0pZTBd9UXwZtkv0OzogJC8/edit?usp=sharing)
+
+[View my project code here](./final-project/)
 
 ## Homework
 
